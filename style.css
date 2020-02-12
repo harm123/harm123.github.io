@@ -1,0 +1,21 @@
+body {
+    color: #666; /* Set body text colour to a grey-ish hex colour */
+    font: 1.2em/1.4em 'Myriad pro', helvetica, arial, sans-serif;
+    text-align: left;
+    margin: 0px;
+}
+
+img {
+   border: 5px solid red;
+   width: 350px;
+   float: left;
+}
+
+p {
+  border: 5px solid green;
+  clear: both;
+}
+
+span {
+     border: 5px solid blue;
+}
